@@ -1,0 +1,32 @@
+[
+    {
+        "id": "aboutme",
+        "label": "About Me",
+        "content": " I am Mohammed Faraz. I'm a graduate of Bachelor of Engineering (B.E) in stream of ECE. I was exposed to the world of coding in my final year project where I handled all the coding part of the project.From then on I learned the skills like React, Node, Express and MongoDB and worked as a Intern in Spark Genie IT Solutions for the past 1 year"
+    },
+    {
+        "id": "skills",
+        "label": "Skills",
+        "content": "HTML CSS JavaScript React Node Tailwind MongoDB Bootstrap Express"
+    },
+    {
+        "id": "hobbies",
+        "label": "Hobbies and Interests",
+        "content": "Cricket, Novel Reading, Movies"
+    },
+    {
+        "id": "experience",
+        "label": "Work Experience",
+        "content": "For the past 1 Year I worked at Spark Genie IT Solution as Freelance MERN Stack Developer. There I mainly worked on Frontend and React."
+    },
+    {
+        "id": "passion",
+        "label": "Passion",
+        "content": " I am passionate about cricket and coding."
+    },
+    {
+        "id": "academic",
+        "label": "Academic Background",
+        "content": "I completed my Graduation in BE(ECE) from ISL Engineering College with 7.3 GPA."
+    }
+]
